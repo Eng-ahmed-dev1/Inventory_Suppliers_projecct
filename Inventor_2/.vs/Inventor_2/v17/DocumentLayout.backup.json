@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ahmed\\Desktop\\inventory khould\\inventory khould\\Inventor_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46C9BA74-4487-49FD-9E5D-56D153296489}|Inventor_2.csproj|c:\\users\\ahmed\\desktop\\inventory khould\\inventory khould\\inventor_2\\views\\stockclerk.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{46C9BA74-4487-49FD-9E5D-56D153296489}|Inventor_2.csproj|solutionrelative:views\\stockclerk.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C9BA74-4487-49FD-9E5D-56D153296489}|Inventor_2.csproj|c:\\users\\ahmed\\desktop\\inventory khould\\inventory khould\\inventor_2\\views\\admindashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{46C9BA74-4487-49FD-9E5D-56D153296489}|Inventor_2.csproj|solutionrelative:views\\admindashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C9BA74-4487-49FD-9E5D-56D153296489}|Inventor_2.csproj|c:\\users\\ahmed\\desktop\\inventory khould\\inventory khould\\inventor_2\\views\\admindashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C9BA74-4487-49FD-9E5D-56D153296489}|Inventor_2.csproj|solutionrelative:views\\admindashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C9BA74-4487-49FD-9E5D-56D153296489}|Inventor_2.csproj|c:\\users\\ahmed\\desktop\\inventory khould\\inventory khould\\inventor_2\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C9BA74-4487-49FD-9E5D-56D153296489}|Inventor_2.csproj|solutionrelative:login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C9BA74-4487-49FD-9E5D-56D153296489}|Inventor_2.csproj|c:\\users\\ahmed\\desktop\\inventory khould\\inventory khould\\inventor_2\\views\\stockclerk.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C9BA74-4487-49FD-9E5D-56D153296489}|Inventor_2.csproj|solutionrelative:views\\stockclerk.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StockClerk.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\inventory khould\\inventory khould\\Inventor_2\\Views\\StockClerk.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\StockClerk.xaml.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\inventory khould\\inventory khould\\Inventor_2\\Views\\StockClerk.xaml.cs",
+              "RelativeToolTip": "Views\\StockClerk.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T21:03:48.849Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\inventory khould\\inventory khould\\Inventor_2\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "Login.xaml.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\inventory khould\\inventory khould\\Inventor_2\\Login.xaml.cs",
+              "RelativeToolTip": "Login.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T06:14:53.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminDashBoard.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\inventory khould\\inventory khould\\Inventor_2\\Views\\AdminDashBoard.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\AdminDashBoard.xaml.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\inventory khould\\inventory khould\\Inventor_2\\Views\\AdminDashBoard.xaml.cs",
+              "RelativeToolTip": "Views\\AdminDashBoard.xaml.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAUwFwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T06:11:30.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminDashBoard.xaml",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\inventory khould\\inventory khould\\Inventor_2\\Views\\AdminDashBoard.xaml",
+              "RelativeDocumentMoniker": "Views\\AdminDashBoard.xaml",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\inventory khould\\inventory khould\\Inventor_2\\Views\\AdminDashBoard.xaml",
+              "RelativeToolTip": "Views\\AdminDashBoard.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-24T06:14:46.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StockClerk.xaml",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\inventory khould\\inventory khould\\Inventor_2\\Views\\StockClerk.xaml",
+              "RelativeDocumentMoniker": "Views\\StockClerk.xaml",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\inventory khould\\inventory khould\\Inventor_2\\Views\\StockClerk.xaml",
+              "RelativeToolTip": "Views\\StockClerk.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-23T21:02:49.407Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
